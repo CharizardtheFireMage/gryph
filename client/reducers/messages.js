@@ -13,9 +13,9 @@ function messages(state = [], action) {
         {
           text: `
             <div class="text-center welcome">
-              <h4>Welcome to gryph!</h3>
-              <p>A video sharing chat application. (Plug.dj clone)</p>
-              <p><strong>Update: </strong>Playlists are added! - CreaturePhil</p>
+              <img src="http://media.pldh.net/pokemon/md2/sprite/382.png" width="63" height="36"><h4><font color="#3399ff"><b>Welcome to the Hydrocity Video Application!</b></font></h3><img src="http://media.pldh.net/pokemon/md2/sprite/382.png" width="63" height="36">
+              <p><font color="blue">This video application is a fork of Fakesloth's Gryph (clone of plug.dj)</font></p>
+              <p><strong><font color="blue">Update: </strong>Playlists are added! - CreaturePhil</font></p>
             </div>
           `,
           html: true
