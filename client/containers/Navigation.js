@@ -13,7 +13,7 @@ const Navigation = ({setAllowSeek}) => {
     <Navbar fluid={true}>
       <Navbar.Header>
         <Navbar.Brand>
-          <Link className="navbar-brand" to="/">gryph</Link>
+          <Link className="navbar-brand" to="/">Hydrocity</Link>
         </Navbar.Brand>
         <Navbar.Toggle />
       </Navbar.Header>
