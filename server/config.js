@@ -2,7 +2,7 @@
 
 let config = {};
 
-config.port = process.env.PORT || 3000;
+config.port = process.env.PORT || 8080;
 
 config.googleAPIKey = process.env.GOOGLE_API_KEY || 'AIzaSyDYwPzLevXauI-kTSVXTLroLyHEONuF9Rw';
 
