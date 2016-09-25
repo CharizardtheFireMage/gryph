@@ -112,7 +112,7 @@ module.exports = {
       );
     if (!buffer.length) buffer = 'No authority present.';
     this.sendHtml(`
-      <div class='text-center welcome'>Gryph Authority List:<br /><br />
+      <div class='text-center welcome'>Hydrocity Authority List:<br /><br />
       ${buffer.join('<br /><br />')}</div>
     `);
   },
